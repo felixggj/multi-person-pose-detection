@@ -5,7 +5,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10.0
-  - pip==22.3.1  
+  - pip==22.3.1
+  - matplotlib
+  - opencv-python
+  - tensorflow-hub  
   - tensorflow-deps
   - ipykernel==6.19.2 # Comment if not using jupyter
 
