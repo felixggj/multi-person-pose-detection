@@ -45,7 +45,7 @@ Overall, there are many different application to this project. The main idea is 
 
 ## Future Features Implementation
 
-- Add a GUI to the interface with a Flask
+- Add a GUI to the interface with Flask
 - Allow users to upload a video and receive the video with the keypoints and skeleton drawn.
 
 
